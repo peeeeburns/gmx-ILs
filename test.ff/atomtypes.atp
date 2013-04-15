@@ -65,11 +65,11 @@ MW                 0.00000      ; Virtual site for tip4p/5p water point charge
 MCH3               0.00000      ; Dummy mass in rigid tetrahedral CH3 group
 MNH3               0.00000      ; Dummy mass in rigid tetrahedral NH3 group
 na_BMI            14.00000      ; BMIM       
-cc                12.00000      ; BMIM  
-cd                12.00000      ; BMIM  
-c3                12.00000      ; BMIM  
-h5                 1.00000      ; BMIM  
-h4                 1.00000      ; BMIM  
-h1                 1.00000      ; BMIM  
-hc                 1.00000      ; BMIM  
+cc_BMI                12.00000      ; BMIM  
+cd_BMI                12.00000      ; BMIM  
+c3_BMI                12.00000      ; BMIM  
+h5_BMI                 1.00000      ; BMIM  
+h4_BMI                 1.00000      ; BMIM  
+h1_BMI                 1.00000      ; BMIM  
+hc_BMI                 1.00000      ; BMIM  
 
