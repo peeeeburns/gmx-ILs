@@ -1,5 +1,6 @@
 [ bondtypes ]
 ; i    j  func       b0          kb
+  no_NO3  o_NO3 1  1.2190e-01  6.3697e+05 ; NO3
   c3_BMI hc_BMI 1    0.10920   2.8225e+05 ; BMIM 
   c3_BMI h1_BMI 1    0.10930   2.8108e+05 ; BMIM 
   cd_BMI h4_BMI 1    0.10830   2.9296e+05 ; BMIM 
@@ -134,6 +135,7 @@
 
 [ angletypes ]
 ;  i    j    k  func       th0       cth
+ o_NO3  no_NO3   o_NO3           1  1.2513e+02  6.4559e+02 ; NO3
 hc_BMI  c3_BMI  hc_BMI           1  1.0835e+02  3.2995e+02 ; BMIM 
 h1_BMI  c3_BMI  h1_BMI           1  1.0955e+02  3.2786e+02 ; BMIM 
 c3_BMI  c3_BMI  hc_BMI           1  1.1005e+02  3.8802e+02 ; BMIM 

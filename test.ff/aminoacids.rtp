@@ -3582,3 +3582,14 @@
     N1    C5
     N1    C7
 
+[ NO3 ]
+ [ atoms ]
+    N1    no_NO3     1.08634  1
+    OA     o_NO3    -0.69545  2
+    OB     o_NO3    -0.69545  3
+    OC     o_NO3    -0.69545  4
+ [ bonds ]
+    N1    OA  
+    N1    OB  
+    N1    OC  
+
